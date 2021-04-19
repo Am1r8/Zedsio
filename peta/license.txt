@@ -1,0 +1,11 @@
+Model Information:
+* title:	PETA SUPPORT
+* source:	https://sketchfab.com/3d-models/peta-support-e1b4f9d8e67248ccac66eae8dbada864
+* author:	caodongxuan (https://sketchfab.com/caodongxuan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PETA SUPPORT" (https://sketchfab.com/3d-models/peta-support-e1b4f9d8e67248ccac66eae8dbada864) by caodongxuan (https://sketchfab.com/caodongxuan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
